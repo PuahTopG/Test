@@ -30,7 +30,7 @@ int main()
 {
 Rectangle r1;
 Rectangle r2;
-r1.set(5,8);
+r1.set(6,9);
 cout<<r1.area()<<endl;
 
 r2.set(8,10);
